@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\contents"
   ],
-  "SelectedNode": "\\C:\\Users\\Dhrubojit_Goswami\\Source\\Repos\\front-end-interview-handbook",
+  "SelectedNode": "\\contents\\behavioral.md",
   "PreviewInSolutionExplorer": false
 }
