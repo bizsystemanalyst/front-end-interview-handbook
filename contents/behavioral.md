@@ -1,5 +1,5 @@
 ---
-title: Behavorial interviewff
+title: Behavorial interview
 ---
 
 :::info We are now part of GreatFrontEnd!
